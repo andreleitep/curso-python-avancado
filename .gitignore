@@ -1,0 +1,11 @@
+# Ignore a apostila
+python_avancado.pdf
+
+# Ignore cache do python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de backup
+*.log
+*.bac
+*.tmp
