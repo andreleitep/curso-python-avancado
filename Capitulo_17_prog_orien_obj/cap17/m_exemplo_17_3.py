@@ -6,5 +6,5 @@ class Veiculo:
         self.km = km
 
     def exibe(self):
-        print(f'Veículo placa {self.placa}')
-        print(f'    modelo {self.modelo}, ano {self.ano}, kilometragem {self.km}')
+        print(f'│{f' Veículo placa {self.placa}':<60}│')
+        print(f'│{f'     modelo {self.modelo}, ano {self.ano}, kilometragem {self.km}':<60}│')
