@@ -19,6 +19,7 @@ def exibe_lista(lst):
         if i % 10 == 0:
             print()
         i+=1
+    print()
 
 def exb_lst_n_prvd(lst):
     i = 1
