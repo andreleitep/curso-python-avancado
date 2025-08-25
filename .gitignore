@@ -1,5 +1,6 @@
 # Ignore a apostila
 python_avancado.pdf
+certificado_python_avancado.pdf
 
 # Ignore cache do python
 __pycache__/
